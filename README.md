@@ -2,7 +2,7 @@
 
 Welcome to my portfolio of deployed projects. This repository serves as a showcase of my closed-source web applications. Below you will find a brief description of each project along with links to access them.
 
----
+--
 
 ### 1. Personal Website
 
